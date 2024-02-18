@@ -1,0 +1,24 @@
+# node-docker
+Simple node and express docker 
+
+1. docker build -t algofields/simple-backend .
+
+2. docker images
+
+# to delete the image created.
+3. docker rmi <image_id> 
+
+4. docker run -p 4000:4000 algofields/simple-backend
+
+
+In another terminal 
+
+1. docker ps
+
+# stop the container
+2. docker stop <container_name> 
+
+# alternative
+3. docker kill 
+
+4. docker ps
