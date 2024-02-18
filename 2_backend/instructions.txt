@@ -1,0 +1,24 @@
+# node-mongo-docker
+A node and express docker template with Mongo
+
+docker compose is a tool to manage containers.
+
+#1 docker-compose build 
+
+#2 docker-compose up -d mongo
+
+#3 docker ps
+
+#4 docker-compose up -d app 
+
+#2 docker-compose up -d mongo
+
+#5 docker ps
+
+#6 docker logs <id1>
+
+#7 docker ps
+
+#8 docker logs <id2>
+
+#9 docker-compose stop 
